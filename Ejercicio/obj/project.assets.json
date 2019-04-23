@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\GitHub\\C#\\Taller\\Taller.csproj",
-      "projectName": "Taller",
-      "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\C#\\Taller\\Taller.csproj",
+      "projectUniqueName": "C:\\Users\\Alejandro\\Desktop\\Ejercicio\\Ejercicio.csproj",
+      "projectName": "Ejercicio",
+      "projectPath": "C:\\Users\\Alejandro\\Desktop\\Ejercicio\\Ejercicio.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\C#\\Taller\\obj\\",
+      "outputPath": "C:\\Users\\Alejandro\\Desktop\\Ejercicio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

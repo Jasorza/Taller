@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Taller/1.0.0": {
+      "Ejercicio/1.0.0": {
         "runtime": {
-          "Taller.dll": {}
+          "Ejercicio.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Taller/1.0.0": {
+    "Ejercicio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
