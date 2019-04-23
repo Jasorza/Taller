@@ -31,8 +31,7 @@ namespace Ejercicio
             if (dia < 5)
             { 
                 Console.WriteLine($"el valor a pagar a la fecha de hoy es de: {cuota2},{cuota},{interes2}");
-                Console.
-            
+                           
             }
             Console.ReadLine();
             
