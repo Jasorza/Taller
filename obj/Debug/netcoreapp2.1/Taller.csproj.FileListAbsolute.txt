@@ -9,3 +9,9 @@ C:\Users\Alejandro\Documents\GitHub\C#\Taller\bin\Debug\netcoreapp2.1\Taller.dll
 C:\Users\Alejandro\Documents\GitHub\C#\Taller\bin\Debug\netcoreapp2.1\Taller.pdb
 C:\Users\Alejandro\Documents\GitHub\C#\Taller\obj\Debug\netcoreapp2.1\Taller.dll
 C:\Users\Alejandro\Documents\GitHub\C#\Taller\obj\Debug\netcoreapp2.1\Taller.pdb
+C:\Users\Alejandro\Documents\GitHub\Taller\obj\Debug\netcoreapp2.1\Taller.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\GitHub\Taller\obj\Debug\netcoreapp2.1\Taller.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\GitHub\Taller\obj\Debug\netcoreapp2.1\Taller.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\GitHub\Taller\obj\Debug\netcoreapp2.1\Taller.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\GitHub\Taller\obj\Debug\netcoreapp2.1\Taller.dll
+C:\Users\Alejandro\Documents\GitHub\Taller\obj\Debug\netcoreapp2.1\Taller.pdb

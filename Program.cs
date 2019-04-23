@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Runtime;
 namespace Taller
 {
     class Program
@@ -9,17 +9,16 @@ namespace Taller
             int prestamo = 17000000;
             var interes = 0.02;
             int plazo = 12;
-            var fecha = new DateTime();
-            var dia="";
-            var año="";
-            var mes="";
+            DateTime consignacion;
+            Console.WriteLine("::::::::::: Mariana, Bienevenida al Banco BBVA :::::::::::");
+            Console.WriteLine("Por favor ingresa la fecha:");
             Console.WriteLine("Ingrese el dia: ");
-            dia = Console.ReadLine();
+            int dia = consignacion.Day;
             Console.WriteLine("Ingrese el mes: ");
-            mes = Console.ReadLine();
+            int mes = consignacion.Month;
             Console.WriteLine("ingrese el año: ");
-            año = Console.ReadLine();
-            Console.WriteLine($"La fecha ingresada es {fecha}");
+            int año = consignacion.Year;
+            consignacion = Convert.ToDateTime(Console.ReadLine());
             Console.ReadLine();
         }
     }
